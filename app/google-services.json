@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341313726332",
+    "firebase_url": "https://pruebafirebase-ca5ac.firebaseio.com",
+    "project_id": "pruebafirebase-ca5ac",
+    "storage_bucket": "pruebafirebase-ca5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341313726332:android:3ae62bd8eaafe19a4f66f9",
+        "android_client_info": {
+          "package_name": "com.rafiki.firebaseprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341313726332-cvdvi586trgthg23prhtj0f6ihp76qj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95jvzc8qivbB4D0g5iii63j8IkK5zEC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341313726332-cvdvi586trgthg23prhtj0f6ihp76qj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
